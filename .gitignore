@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Editor / IDE configuration directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
